@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,11 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.Image{
+  background-image: url("../src/Image.jpg");
+  background-size: 100%;
+  height:40rem;
 }
+
